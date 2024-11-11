@@ -20,7 +20,7 @@ export class AvatarService {
   async uploadImage(cameraFile: Photo) {
 
     const user = this.auth.currentUser;
-    const path = `uploads/${user?.uid}/profile.webp`;
+    const path = `uploads/Bedoya_Cardenas/${user?.uid}/profile.webp`;
     const storageRef = ref(this.storage, path);
 
     try {
