@@ -4,7 +4,7 @@ Nombres :
 -Dilan Bedoya
 -
 -Alex Cardenas 
-
+-
 Autenticación y Subida de Archivos en Ionic con Firebase
 Pasos
 1. Crear Proyecto
