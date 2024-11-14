@@ -1,6 +1,8 @@
 
 Nombres :
--Dilan Bedoya 
+-
+-Dilan Bedoya
+-
 -Alex Cardenas 
 
 Autenticación y Subida de Archivos en Ionic con Firebase
