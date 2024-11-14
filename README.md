@@ -25,15 +25,19 @@ npm install firebase @angular/fire
 4 .Autenticación y Subida de Archivos
 Implementa autenticación con AngularFireAuth y subida de archivos con AngularFireStorage.
 
-5 .Probar y Crear APK
---Ejecuta la app:
----ionic serve
+5 . Probar y generar la apk
+-
+-Ejecuta la app:
+-
+-ionic serve
+-
 ![image](https://github.com/user-attachments/assets/fefe4f5b-b0a3-473e-b5b0-9f466221889e) (aplicacion)
 Genera la APK:
+-
 ---ionic capacitor build android
 -
 
-APK
+-APK
 ![image](https://github.com/user-attachments/assets/0fcd16f8-3c26-4db4-9fa8-f0605b4f7f65)
 -
 -
