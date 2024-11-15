@@ -47,6 +47,13 @@ Genera la APK:
 -
 -
 ![image](https://github.com/user-attachments/assets/97827330-5ae7-4b78-97e4-44d53fdaedd9)
+-
+
+Los aportes establecidos por cada uno de los estudiantes se realizaron a traves de comits ,por una parte esta Alex Cardenas que empezo el proyecto siguiendo la guia y creo el APK Y por otra parte Dilan Bedoya se encargo de configurar el database y configurar el path 
+
+Recursos
+https://devdactic.com/ionic-firebase-auth-upload
+https://firebase.google.com/docs
 
 
-Para más detalles, consulta el tutorial completo :https://devdactic.com/ionic-firebase-auth-upload
+
